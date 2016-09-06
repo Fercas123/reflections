@@ -1,8 +1,9 @@
-What happens when you initialize a repository Why do you need to do it?
+﻿What happens when you initialize a repository Why do you need to do it?
 it creates a hidden file git that is going to be saving all the metadata of the files in the repository, and you need to do it to start saving the changes
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+its a bridge between the two, and it helps you in making repositories only when is needed and for the files that are important instead of doing it for all
 
 How can you use the staging area to make sure you have one commit per logical
 change?

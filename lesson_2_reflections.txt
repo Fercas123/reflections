@@ -16,6 +16,8 @@ when you want to try something new without altering the original branch, like ad
 
 How do the diagrams help you visualize the branch structure?
 
+by giving you a better idea of when the master divides into a new branch and not loosing them in the process
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

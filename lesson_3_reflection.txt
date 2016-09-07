@@ -14,3 +14,6 @@ so you dont have to merge the whole thing.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 being able to compare it to whatever new is in the remote next time we try to put something up
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+probably taking times to edit the code but it would be ineficiet

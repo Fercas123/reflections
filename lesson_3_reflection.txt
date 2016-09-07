@@ -11,3 +11,6 @@ forks are a clone of someone elses repository in your github account and it can 
 clones are a copy of any repository, it can be a copy in your computer or in your account, branches 
 are divisions within the master branch of the repository that can be used to try new things and have the master branch at the same time
 so you dont have to merge the whole thing.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+being able to compare it to whatever new is in the remote next time we try to put something up

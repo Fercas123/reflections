@@ -21,5 +21,7 @@ by giving you a better idea of when the master divides into a new branch and not
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+combining the code from those two branches into one, and its represented like that because all the commits in the merged branch also pass to the master one
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+that even if there is no conflict between the two versions merging, you have to be checking them all the time
